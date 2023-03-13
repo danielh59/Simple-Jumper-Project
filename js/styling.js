@@ -1,5 +1,6 @@
 window.onload = function(){
-    document.getElementById("jump"){
+    document.getElementById("jump");
+    {
         let counter = 0;
         jump.onclick = function (){
             counter += 1
